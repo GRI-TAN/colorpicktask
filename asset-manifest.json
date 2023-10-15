@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/colorpicktask/static/css/main.3a4fe3d5.css",
+    "main.js": "/colorpicktask/static/js/main.7d06d178.js",
+    "static/js/787.89bca4e3.chunk.js": "/colorpicktask/static/js/787.89bca4e3.chunk.js",
+    "index.html": "/colorpicktask/index.html",
+    "main.3a4fe3d5.css.map": "/colorpicktask/static/css/main.3a4fe3d5.css.map",
+    "main.7d06d178.js.map": "/colorpicktask/static/js/main.7d06d178.js.map",
+    "787.89bca4e3.chunk.js.map": "/colorpicktask/static/js/787.89bca4e3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a4fe3d5.css",
+    "static/js/main.7d06d178.js"
+  ]
+}
